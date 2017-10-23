@@ -333,33 +333,12 @@
   width:375px;
   height:84px;
 }
-#u614-4 {
-  position:absolute;
-  left:0px;
-  top:252px;
-  width:375px;
-  height:84px;
-}
-#u614-5 {
-  position:absolute;
-  left:0px;
-  top:336px;
-  width:375px;
-  height:84px;
-}
-#u614-6 {
-  position:absolute;
-  left:0px;
-  top:420px;
-  width:375px;
-  height:84px;
-}
 #u614 {
   position:absolute;
   left:0px;
   top:64px;
   width:375px;
-  height:504px;
+  height:252px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
