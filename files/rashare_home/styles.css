@@ -57,7 +57,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:59px;
+  width:131px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -70,15 +70,15 @@
 #u3 {
   position:absolute;
   left:36px;
-  top:375px;
-  width:59px;
+  top:372px;
+  width:131px;
   height:16px;
 }
 #u4 {
   position:absolute;
   left:0px;
   top:0px;
-  width:59px;
+  width:131px;
   white-space:nowrap;
 }
 #u5_div {
@@ -927,7 +927,7 @@
 #u73 {
   position:absolute;
   left:575px;
-  top:522px;
+  top:474px;
   width:151px;
   height:96px;
   font-family:'微软雅黑';
