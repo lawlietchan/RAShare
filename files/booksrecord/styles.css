@@ -729,8 +729,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:45px;
-  height:19px;
+  width:41px;
+  height:18px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -738,21 +738,19 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-size:16px;
 }
 .u395 {
   position:absolute;
   left:196px;
   top:46px;
-  width:45px;
-  height:19px;
-  font-size:16px;
+  width:41px;
+  height:18px;
 }
 .u396 {
   position:absolute;
   left:0px;
   top:0px;
-  width:45px;
+  width:41px;
   white-space:nowrap;
 }
 .u397_img {
